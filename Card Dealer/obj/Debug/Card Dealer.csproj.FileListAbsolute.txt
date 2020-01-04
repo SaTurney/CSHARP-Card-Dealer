@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Dict. Deck of Cards\Card Dealer\bin\Debug\Card Dealer.exe.config
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Dict. Deck of Cards\Card Dealer\bin\Debug\Card Dealer.exe
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Dict. Deck of Cards\Card Dealer\bin\Debug\Card Dealer.pdb
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Dict. Deck of Cards\Card Dealer\obj\Debug\Card Dealer.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Dict. Deck of Cards\Card Dealer\obj\Debug\Card_Dealer.Form1.resources
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Dict. Deck of Cards\Card Dealer\obj\Debug\Card_Dealer.Properties.Resources.resources
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Dict. Deck of Cards\Card Dealer\obj\Debug\Card Dealer.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Dict. Deck of Cards\Card Dealer\obj\Debug\Card Dealer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Dict. Deck of Cards\Card Dealer\obj\Debug\Card Dealer.exe
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Dict. Deck of Cards\Card Dealer\obj\Debug\Card Dealer.pdb
